@@ -27,6 +27,22 @@ A curated collection of books and resources covering data science, Linux program
 - `Unbroken A World War ll Story of Survival` - Inspiring survival story from WWII
 - `Way of the Peaceful Warrior` - Philosophical and inspirational literature
 
+#### 📚 Large File Download Links
+Due to the large size of some PDF files (exceeding 100MB), they have been stored on Quark Cloud Drive for download.
+
+🔗 Cloud Drive Link:
+https://pan.quark.cn/s/838711076b9b
+🗝️ Access Code:
+pM7T
+
+📁 File Description
+The link contains the following large PDF files:
+
+`Lehninger Principles of Biochemistry (7th ed.).pdf`
+`生物化学（第4版）（上册）- 朱圣庚.pdf`
+`生物化学（第4版）（下册）- 朱圣庚.pdf`
+`鸟哥的 Linux 私房菜 - 基础学习篇（第四版）.pdf`
+
 ## 🗂️ Usage
 
 This repository serves as my personal digital library for:
@@ -37,4 +53,5 @@ This repository serves as my personal digital library for:
 
 ## 📝 Note
 
+If you encounter any issues or broken links, please report them via Issues.
 This is a personal collection for educational purposes. If there are any copyright issues, please contact me for removal.
