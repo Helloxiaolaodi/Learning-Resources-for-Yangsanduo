@@ -34,8 +34,7 @@ Due to the large size of some PDF files (exceeding 100MB), they have been stored
 **🔗 Cloud Drive Link:**
 [https://pan.quark.cn/s/838711076b9b](https://pan.quark.cn/s/838711076b9b) ✅ *(Active as of 2025)*
 
-**🗝️ Access Code:**  
-`pM7T`
+**🗝️ Access Code:**  `pM7T`
 
 ### 📁 File Description
 
