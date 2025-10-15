@@ -1,4 +1,4 @@
-**Learning_Resources_for_Yangsanduo**
+**Learning-Resources-for-Yangsanduo**
 
 **The research journey of a STEM novice**
 
