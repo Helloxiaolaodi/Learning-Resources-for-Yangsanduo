@@ -8,7 +8,7 @@ A curated collection of books and resources covering data science, Linux program
 
 ## 📚 Collection Structure
 
-### 📁 Books Directory
+### 📁 books
 
 #### 💻 **Programming & Data Science**
 - `R for data science.pdf` - Data science with R programming
@@ -26,6 +26,11 @@ A curated collection of books and resources covering data science, Linux program
 #### 📖 **Inspirational Reading**
 - `Unbroken A World War ll Story of Survival` - Inspiring survival story from WWII
 - `Way of the Peaceful Warrior` - Philosophical and inspirational literature
+
+### 📁 Learning Notes
+
+#### 📖 **Jupyter Notebook**
+- `jupyter notebook快捷键-251107` 
 
 ### 📚 Large File Download Links
 
