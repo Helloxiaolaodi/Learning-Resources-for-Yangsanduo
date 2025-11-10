@@ -6,6 +6,44 @@
 
 A curated collection of books and resources covering data science, Linux programming, and inspirational literature.
 
+## 📁 Structure
+
+```
+Learning-Resources-for-Yangsanduo/
+│
+├── 📂 books/
+│   │
+│   ├── 💻 Programming & Data Science/
+│   │   ├── R for data science.pdf
+│   │   ├── R in action (third edition).pdf
+│   │   └── R数据科学（中文版）.pdf
+│   │
+│   ├── 🐧 Linux & Shell Scripting/
+│   │   └── Linux命令行与shell脚本编程大全（第四版）.pdf
+│   │
+│   └── ✍️ Academic Writing/
+│       └── Science research writing (second edition).pdf
+│
+├── 📂 Food for Thought Directory/
+│   │
+│   └── 📖 Inspirational Reading/
+│       ├── Unbroken A World War ll Story of Survival
+│       └── Way of the Peaceful Warrior
+│
+├── 📂 Learning Notes/
+│   │
+│   └── 📖 Jupyter Notebook/
+│       └── jupyter notebook快捷键-251107
+│
+└── 📚 External Resources/
+    │
+    └── 🔗 Cloud Storage (quark.cn)/
+        ├── Lehninger Principles of Biochemistry (7th ed.).pdf
+        ├── 生物化学（第4版）（上册）- 朱圣庚.pdf
+        ├── 生物化学（第4版）（下册）- 朱圣庚.pdf
+        └── 鸟哥的 Linux 私房菜 - 基础学习篇（第四版）.pdf
+```
+
 ## 📚 Collection Structure
 
 ### 📁 books
