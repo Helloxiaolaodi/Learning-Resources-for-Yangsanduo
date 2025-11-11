@@ -38,8 +38,11 @@ Learning-Resources-for-Yangsanduo/
 │   ├── 🖥️ Linux/
 │   │   └── linux基础及高级命令(bash shell)-251008.pdf
 │   │
-│   └── 📊 R/
-│       └── R的常用函数-251012.pdf
+│   ├── 📊 R/
+│   │   └── R的常用函数-251012.pdf
+│   │
+│   └── 🛠️ VScode/
+│       └── VScode的基础使用-251110.pdf
 │
 ├── 📂 Postgraduate textbook/
 │   │
@@ -89,6 +92,9 @@ Learning-Resources-for-Yangsanduo/
 
 #### 📊 **R**
 - `R的常用函数-251012.pdf` - Commonly used R functions for data analysis and visualization
+
+#### 🛠️ **VSCode**
+- `VScode的基础使用-251110.pdf` - Basic usage and configuration of VSCode
 
 ### 📁 Postgraduate textbook
 
