@@ -32,8 +32,22 @@ Learning-Resources-for-Yangsanduo/
 │
 ├── 📂 Learning Notes/
 │   │
-│   └── 📖 Jupyter Notebook/
-│       └── jupyter notebook快捷键-251107
+│   ├── 📓 Jupyter Notebook/
+│   │   └── jupyter notebook快捷键-251107
+│   │
+│   ├── 🖥️ Linux/
+│   │   └── linux基础及高级命令(bash shell)-251008.pdf
+│   │
+│   └── 📊 R/
+│       └── R的常用函数-251012.pdf
+│
+├── 📂 Postgraduate textbook/
+│   │
+│   ├── 🎧 Academic Listening & Speaking/
+│   │   └── 研究生学术英语视听说_9787302609155.pdf
+│   │
+│   └── 📝 Academic Writing & Publishing/
+│       └── 学术英语论文写作与发表_15176507.pdf
 │
 └── 📚 External Resources/
     │
@@ -67,10 +81,39 @@ Learning-Resources-for-Yangsanduo/
 
 ### 📁 Learning Notes
 
-#### 📖 **Jupyter Notebook**
-- `jupyter notebook快捷键-251107` 
+#### 📓 **Jupyter Notebook**
+- `jupyter notebook快捷键-251107` - Essential shortcuts and productivity tips for Jupyter Notebook
 
-### 📚 Large File Download Links
+#### 🖥️ **Linux**
+- `linux基础及高级命令(bash shell)-251008.pdf` - Fundamental and advanced Linux bash shell commands
+
+#### 📊 **R**
+- `R的常用函数-251012.pdf` - Commonly used R functions for data analysis and visualization
+
+### 📁 Postgraduate textbook
+
+#### 🎧 **Academic Listening & Speaking**
+- `研究生学术英语视听说_9787302609155.pdf` - Postgraduate academic English listening and speaking skills
+
+#### 📝 **Academic Writing & Publishing**
+- `学术英语论文写作与发表_15176507.pdf` - Academic English paper writing and publication guide
+
+## 🌟 Resource Highlights
+
+### 🔬 **Core Technical Skills**
+- **R Programming**: Complete data science workflow from basics to advanced applications
+- **Linux Proficiency**: Command line mastery for computational research
+- **Jupyter Notebooks**: Interactive computing for data analysis and visualization
+
+### 📝 **Academic Development**
+- **Scientific Writing**: From research paper composition to journal publication
+- **Academic English**: Comprehensive language skills for international research communication
+
+### 🧠 **Interdisciplinary Knowledge**
+- **Biochemistry**: Foundational biological sciences with standard textbooks
+- **Inspirational Reading**: Personal growth and resilience building
+
+## 📚 Large File Download Links
 
 Due to the large size of some PDF files (exceeding 100MB), they have been stored on Quark Cloud Drive for download.
 
@@ -82,20 +125,23 @@ Due to the large size of some PDF files (exceeding 100MB), they have been stored
 ### 📁 File Description
 
 The link contains the following large PDF files:
-- `Lehninger Principles of Biochemistry (7th ed.).pdf` (245 MB)
-- `生物化学（第4版）（上册）- 朱圣庚.pdf` (126 MB)
-- `生物化学（第4版）（下册）- 朱圣庚.pdf` (183 MB)
-- `鸟哥的 Linux 私房菜 - 基础学习篇（第四版）.pdf` (558 MB)
+- `Lehninger Principles of Biochemistry (7th ed.).pdf` (245 MB) - Gold standard biochemistry textbook
+- `生物化学（第4版）（上册）- 朱圣庚.pdf` (126 MB) - Chinese biochemistry textbook vol.1
+- `生物化学（第4版）（下册）- 朱圣庚.pdf` (183 MB) - Chinese biochemistry textbook vol.2
+- `鸟哥的 Linux 私房菜 - 基础学习篇（第四版）.pdf` (558 MB) - Comprehensive Linux guide
 
 ## 🗂️ Usage
 
 This repository serves as my personal digital library for:
-- Academic reference and study
-- Professional skill development
-- Technical learning and programming
-- Personal growth and inspiration
+- **Academic reference and study** - Core textbooks and research materials
+- **Professional skill development** - Programming and technical competencies
+- **Technical learning and programming** - Hands-on coding practice
+- **Personal growth and inspiration** - Mindset and resilience building
 
 ## 📝 Note
 
 If you encounter any issues or broken links, please report them via Issues.
 This is a personal collection for educational purposes. If there are any copyright issues, please contact me for removal.
+
+---
+**Last Updated**: 2025 | **Maintained by**: Helloxiaolaodi 🚀
